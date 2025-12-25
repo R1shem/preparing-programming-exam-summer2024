@@ -1,4 +1,4 @@
-# preparing-programming-exam-summer2023
+# preparing-programming-exam-summer2024
 Тренировочный вариант экзамена второго курса.
 
 WPF-приложение, написанное в Visual Studio на C#. Ряд скриншотов Visio-документов 
